@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+
+  font-family: "Happy Monkey", system-ui;
+  background: rgb(255, 192, 230);
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+
+#bff-img{
+    width: 150px;
+    border-radius: 50%;
+    border : 6px solid snow
+}
+
+#bday-age{
+    background: lightgoldenrodyellow;
+    padding: 5px 10px;
+    border-radius:5px ;                       
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+ #bday-date{
+    margin:0;
+    background: lightgoldenrodyellow;
+ }
+
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section{
+    margin-top: 50px;
+}
+.gift-title{
+    margin-bottom: 10px;
+}
+
+.gift-hint{
+margin-top: 0;
+}
+
+.gift-img{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image:url(https://thumbs.dreamstime.com/b/gold-box-gift-tied-gold-ribbon-bow-black-background-light-glare-85408579.jpg) ;
+    background-size: cover;
+}
+
+ #gift-img-happy:hover{
+    background-image: url(https://media2.giphy.com/media/rtR30sd0thwxiOFFG2/giphy.webp);
+}
+
+ #gift-img-hot:hover{
+    background-image:url(https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycGZuN3psc3RtazBsdTdvNzA1dXNyN25qMm8wc2M3NTJ4aHB3dWY3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aQYR1p8saOQla/200.gif) ;
+}
+ #gift-img-cool:hover{
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVrOXF1Mm96ajlucTRlbXRhd3BiNTZqbHljOGZyNHpkeGY4d2RuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7Yo7PIp7Szip2/giphy.webp);
+ }
+
+#gift-img-oh:hover{
+    background-image: url(https://www.gifcen.com/wp-content/uploads/2024/12/happy-birthday-gif-5.gif);
+}
+ 
