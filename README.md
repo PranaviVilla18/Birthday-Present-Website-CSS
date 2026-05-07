@@ -32,4 +32,4 @@ The main objective of this project is to enhance front-end development skills by
 
 ## 👩‍💻 Author
 Pranavi
-First-Year B.Tech Student |
+First-Year B.Tech Student 
