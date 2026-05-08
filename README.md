@@ -19,9 +19,6 @@ The Birthday Surprise Website is a front-end web development project designed to
 * HTML5
 * CSS3
   
-**Project Link:**
-[Birthday Surprise Project](file:///C:/Users/Vaibhav%202/OneDrive/Desktop/web%20devolpment/zhaolusiBDAY!/zhaolusibday!.html)
- 
 ## 🎯 Project Objective
 
 The main objective of this project is to enhance front-end development skills by building a visually appealing and interactive birthday greeting webpage. It demonstrates the practical use of CSS styling, layouts, animations, and responsive design principles.
